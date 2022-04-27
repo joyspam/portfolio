@@ -1,2 +1,2 @@
 # portfolio
-My certificates and projects
+My resume, certificates and projects.
